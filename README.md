@@ -1,4 +1,11 @@
-# kuliner
+# Daftar Menu Makanan
+```
+aplikasi ini di build menggunakan vue js dengan bantuan api placeholder, jadi saat menjalankan harus berada 
+di 2 terminal yang berbeda :
+1. terminal pertama menjalankan codingan vue ui
+2. terminal kedua menjalankan json-server --watch db.json
+
+```
 
 ## Project setup
 ```
